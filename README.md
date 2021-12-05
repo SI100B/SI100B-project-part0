@@ -26,7 +26,7 @@ Do your own experiments, you probably will master these commands:
 
 ### Git Branching
 
-Follow the instructions of section3, **Git Branching** of [this link](https://git-scm.com/book/en/v2), learn how to branch out the initial branch and merge branches.
+Follow the instructions of section3, **Git Branching** of [this link](https://git-scm.com/book/en/v2), learn how to branch out of the initial branch and merge branches.
 
 After that, you probably will master:
 
