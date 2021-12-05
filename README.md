@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The goal of project part1 is to give you a brief introduction to *Git* and *GitHub*,  which we will use during the whole project.
+The goal of project part0 is to give you a brief introduction to *Git* and *GitHub*,  which we will use during the whole project.
 
 ## Getting Started
 
@@ -38,9 +38,9 @@ Basically, these are all you need during the project. But there are still many m
 
 ## Exercise
 
-There is a small exercise for you. Please check that if you can do these simple operations in the part1 repo.
+There is a small exercise for you. Please check that if you can do these simple operations in the part0 repo.
 
-1. Clone this part1 repo.
+1. Clone this part0 repo.
 2. One member of the team creates an empty txt file, then it commit locally.
 3. The team member pushes it to the remote.
 4. The other two members fetch the commit to their local repo.
